@@ -7,4 +7,5 @@ if (window.netlifyIdentity) {
       });
     }
   });
+  coucou
 }
