@@ -7,5 +7,5 @@ if (window.netlifyIdentity) {
       });
     }
   });
-  coucouuuuurr
+  couc
 }
